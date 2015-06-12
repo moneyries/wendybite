@@ -15,6 +15,8 @@ nav {
 img {
 	border: 1px solid ;
 	width: 300px;
+	float: right;
+	margin: 20px;
 }
 
 h1 {
@@ -32,4 +34,5 @@ a {
 
 footer {
 	text-align: center;
+	clear: both;
 }
