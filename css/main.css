@@ -1,20 +1,35 @@
 body {
 	background: gray; 
-}
-
-h1 {
-	color: blue;
-	font-style: italic;
-}
-
-a {
+	color: white;
+	margin: 30px;
+	border: 1px solid black;
+	padding: 0px 50px 10px 50px;
 
 }
 
-a:visited{
-  color:blue;
+nav {
+	text-align: center;	
+	margin: 30px; 
 }
 
 img {
-	float:right
+	border: 1px solid ;
+	width: 300px;
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+}
+
+h2 {
+
+}
+
+a {
+	color: green;
+}
+
+footer {
+	text-align: center;
 }
