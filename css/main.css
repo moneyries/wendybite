@@ -1,19 +1,20 @@
-h1 {
-			color: red;
-			font-weight: normal;
+body {
+	background: gray; 
 }
 
-p {
-			color: blue;
-			font-size 24px;
+h1 {
+	color: blue;
+	font-style: italic;
 }
 
 a {
-			color:yellow;
-			text-decoration: 24px;
+
 }
 
-ul {
-	color: green;
-	font-size: 44px;
+a:visited{
+  color:blue;
+}
+
+img {
+	float:right
 }
